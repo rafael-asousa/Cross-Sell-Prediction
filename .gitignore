@@ -1,0 +1,9 @@
+*.csv
+*.pkl
+__pycache__
+*.pyc
+.vscode
+*.zip
+.env
+*.png
+.cross-sell/
