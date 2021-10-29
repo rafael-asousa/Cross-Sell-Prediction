@@ -8,3 +8,4 @@ __pycache__
 *.png
 .cross-sell/
 .swp
+.ipynb_checkpoints/*
